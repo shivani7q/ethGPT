@@ -1,3 +1,3 @@
-# buildspace 
-### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
+# Shanghai gpt
+
+this bot uses chatgpt api to answer questions related to shanghai upgrade, an initial prompt is injected with details about eth withdrawals 
