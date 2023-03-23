@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import Image from 'next/image';
-import ethlogo from '/assets/ethereum-Logo-PNG-Images.png';
+import ethlogo from '/assets/ethereum.png';
 import { useState } from 'react';
 
 
